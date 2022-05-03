@@ -9,7 +9,7 @@ Este viaje cultural es recogido en un video de cinco minutos.
 
 Se trata de **Leonardo Figueroa de 27 años,** un joven que ideó una guía interactiva en lengua de señas de los museos de Quito.
 
-![Presidente Vladimir Putin](Putin.JPG)
+![Presidente Vladimir Putin](Putin.jpg)
 
 ## El silencio no le impidió conseguir su título profesional
 
